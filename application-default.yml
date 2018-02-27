@@ -10,4 +10,5 @@ spring:
     console:
       enabled: true
       
-my_name: byungwoo
+name:
+  byungwoo
